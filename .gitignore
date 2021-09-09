@@ -1,0 +1,15 @@
+.DS_Store
+.bloop
+.bsp
+.classpath
+.git
+.idea
+.metals
+.project
+.settings
+.vscode
+client.js
+client.js.map
+logs
+metals.sbt
+target
